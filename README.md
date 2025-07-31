@@ -78,7 +78,7 @@
 
 **🎓 B.Tech in Artificial Intelligence and Data Science**  
 Ramco Institute Of Technology (2022–Present)  
-📈 CGPA: 8.04
+📈 CGPA: 8.07
 
 **🏫 HSLC – Vels Public School**  
 2021–2022 | 📊 70.8%
