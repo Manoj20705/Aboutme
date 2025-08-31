@@ -93,7 +93,7 @@ Ramco Institute Of Technology (2022–Present)
 - 📱 Phone: +91 9363214089  
 - 📧 Email: manojkumarm2705@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/manoj-kumar-m-4b336a254](https://www.linkedin.com/in/manoj-kumar-m-4b336a254)  
-- 🐱 GitHub: [github.com/Manojkumar2005](https://github.com/Manojkumar2005)
+- 🐱 GitHub: [github.com/Manoj20705/aboutme](https://github.com/Manoj20705/aboutme)
 
 ---
 
