@@ -98,4 +98,3 @@ Ramco Institute Of Technology (2022–Present)
 ---
 
 > *“Striving to build impactful machine learning solutions — one model at a time!”*
-# aboutme
