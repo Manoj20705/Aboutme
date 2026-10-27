@@ -1,4 +1,3 @@
-::: {align="center"}
 # Manoj Kumar M
 
 ### Software Developer \| AI & Data Science \| Machine Learning & Computer Vision
@@ -110,7 +109,5 @@ software and AI-focused projects.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 *Thanks for visiting my profile --- feel free to explore my
 repositories.*
-:::
