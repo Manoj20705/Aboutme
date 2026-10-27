@@ -38,19 +38,19 @@ improvement, and learning from practical challenges.
   -----------------------------------------------------------------------
   Area                                Technologies
   ----------------------------------- -----------------------------------
-  Programming                         Python, Java, JavaScript, SQL
+  Programming:                          Python, Java, JavaScript, SQL
 
-  Web Development                     HTML, CSS, React
+  Web Development:                      HTML, CSS, React
 
-  Machine Learning                    Random Forest, Decision Trees,
+  Machine Learning:                     Random Forest, Decision Trees,
                                       model evaluation, feature
                                       engineering
 
-  Computer Vision                     OpenCV, MediaPipe
+  Computer Vision:                      OpenCV, MediaPipe
 
-  Data & Databases                    Data preprocessing, MySQL
+  Data & Databases:                     Data preprocessing, MySQL
 
-  Developer Tools                     Git, GitHub, VS Code
+  Developer Tools:                      Git, GitHub, VS Code
   -----------------------------------------------------------------------
 
 ## Selected Projects
